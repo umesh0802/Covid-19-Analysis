@@ -59,6 +59,8 @@ Tableau: Used for creating interactive and visually appealing dashboards.
 Jupyter Notebook: Interactive environment for analysis and visualization.
 
 
+Tableau Preview:
+![image](https://github.com/user-attachments/assets/b5877235-0170-47b4-8da1-15c2d8c3b210)
 
 
 License
