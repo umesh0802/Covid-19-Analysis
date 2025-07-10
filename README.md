@@ -41,6 +41,7 @@ This project presents an in-depth analysis of the global impact of COVID-19 usin
 
 📦 COVID-19-Analysis
 ┣ 📄 Covid 19 Analysis Project.ipynb
+┣ 📄 Tableau File
 ┗ 📄 README.md
 
 
@@ -48,11 +49,11 @@ This project presents an in-depth analysis of the global impact of COVID-19 usin
 
 ## 📷 Sample Visualizations
 
-> *(Add images of line plots, bar charts, or heatmaps if available)*
+- Confirmed vs Recovered cases over time  ![image](https://github.com/user-attachments/assets/75cf4630-307e-42d0-b38e-8bd788a017ba)
 
-- Confirmed vs Recovered cases over time  
-- Top 10 countries by total cases  
-- Death rates comparison per continent
+- Top 15 countries by total cases  ![image](https://github.com/user-attachments/assets/f8b88e1e-8775-4a08-904f-e0cabc069ab3)
+
+- Dashboard ![image](https://github.com/user-attachments/assets/7a4516c5-49d6-4d5f-80dd-9730a026aa6b)
 
 
 ---
