@@ -42,6 +42,7 @@ This project presents an in-depth analysis of the global impact of COVID-19 usin
 📦 COVID-19-Analysis
 ┣ 📄 Covid 19 Analysis Project.ipynb
 ┣ 📄 Tableau File
+┣ 📄 Tableau Dashboard pdf File
 ┗ 📄 README.md
 
 
